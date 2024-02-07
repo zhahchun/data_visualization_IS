@@ -1,1 +1,1 @@
-# data_visualization_practice
+# data_visualization_course
